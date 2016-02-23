@@ -1,0 +1,6 @@
+{
+  "name": "drupal/test_module",
+  "description": "This is a test module by Sergio Perez.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+"
+}
